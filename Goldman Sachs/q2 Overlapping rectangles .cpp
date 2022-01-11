@@ -16,9 +16,7 @@ class Solution {
         if(a==0 && b==0)
         return 0;
         
-        return 1;
-        
-        
+        return 1;       
     }
     
     bool solve(int l1[], int r1[], int l2[], int r2[])
